@@ -1,0 +1,7 @@
+version: 1
+human_identities:
+  - github:andrei-shtanakov
+agent_identities:
+  - github:dependabot
+  - github:merge-broker
+  - github:ai-prosto

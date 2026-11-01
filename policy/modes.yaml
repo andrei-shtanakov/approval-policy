@@ -1,0 +1,25 @@
+schema: approval-policy-modes/v1
+modes:
+  andrei-shtanakov/spec-runner: merge
+  andrei-shtanakov/atp-platform: merge
+  andrei-shtanakov/maestro: merge
+  andrei-shtanakov/arbiter: merge
+  andrei-shtanakov/dispatcher: merge
+  andrei-shtanakov/steward: merge
+  andrei-shtanakov/proctor: merge
+  andrei-shtanakov/deployer: merge
+  andrei-shtanakov/prograph: merge
+  andrei-shtanakov/robin-runtime: merge
+  andrei-shtanakov/github-checker: merge
+  andrei-shtanakov/libretto: merge
+  andrei-shtanakov/research-bench: merge
+  andrei-shtanakov/impresario: merge
+  andrei-shtanakov/discovery: merge
+  andrei-shtanakov/discovery-toolkit: merge
+  andrei-shtanakov/disputatio: merge
+  andrei-shtanakov/devtools: merge
+  andrei-shtanakov/prograph-vault: merge
+  andrei-shtanakov/robin-toolkit: merge
+  andrei-shtanakov/spec-runner-vscode: merge
+  andrei-shtanakov/kapelle: merge
+  andrei-shtanakov/df-roles-probe: review
